@@ -2,6 +2,7 @@
 <a href="https://travis-ci.org/OwenTse/ExamDemo"><img src="https://travis-ci.org/OwenTse/ExamDemo.svg?branch=master"></a>
 # 赛前准备 did you hear this? I mean the ghost thing.
 请大家提前下载和安装以下软件：(does everyone need to do so?)<br/>
+0\get yourself ready
 1、JDK 1.8+ https://java.com/zh_CN/download/<br/>
 2、IntelliJ (推荐)https://www.jetbrains.com/idea/download/ （不推荐Eclipse）<br/>
 3、Git Bash命令行 （https://msysgit.github.io/ 或 https://www.sourcetreeapp.com/ ）<br/>
